@@ -6,12 +6,12 @@
 ## ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
 
 ### 💻 Carrera: **Computación**  
-📚 Asignatura: **Teoría de la Programación**  
-🎓 Nivel: **Primer ciclo**  
-🗓️ Período académico: **Septiembre 2025 – Febrero 2026**  
+📚 Asignatura: **Teoría de la Distribución y la Probabilidad**  
+🎓 Nivel: **Segundo ciclo**  
+🗓️ Período académico: **Marzo– Agosto 2026**  
 
 ---
-👩‍🏫 Docente: **PhD. Lissette López**
+👩‍🏫 Docente: **Ing. Cristian Narváez**
 
 🧑‍🎓 Estudiante: **Alison Tapia**
 
