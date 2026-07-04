@@ -8,7 +8,7 @@
 ### 💻 Carrera: **Computación**  
 📚 Asignatura: **Teoría de la Distribución y la Probabilidad**  
 🎓 Nivel: **Segundo ciclo**  
-🗓️ Período académico: **Marzo– Agosto 2026**  
+🗓️ Período académico: **Abril – Agosto 2026**  
 
 ---
 👩‍🏫 Docente: **Ing. Cristian Narváez**
